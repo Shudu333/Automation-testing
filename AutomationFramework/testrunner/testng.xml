@@ -5,6 +5,7 @@
     <classes>
       
       <class name="testcases.FirstTestFW"/>
+     
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

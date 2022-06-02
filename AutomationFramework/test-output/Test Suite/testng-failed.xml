@@ -7,7 +7,7 @@
         <methods>
           <include name="setUP"/>
           <include name="tearDown"/>
-          <include name="LoginTest"/>
+          <include name="LoginTest" invocation-numbers="1 2"/>
         </methods>
       </class> <!-- testcases.FirstTestFW -->
     </classes>
